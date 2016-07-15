@@ -1,8 +1,8 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Reda Sadiki Webcake
+tagline:      
 baseurl:      ""
-paginate:     1
+#paginate:     1
 
 # About/contact
 author:
@@ -11,7 +11,7 @@ author:
 
 # Gems
 gems:
-  - jekyll-paginate
+  #- jekyll-paginate
 
 #Others
 markdown: kramdown
